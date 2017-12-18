@@ -1,4 +1,4 @@
-# iOT-Light-System
+# IoT-Light-System
 These programs are used to interface with an HC-05 Bluetooth module and Arduino Uno.
 
 The Processing GUI sends commands via Bluetooth connection to the HC-05, which then
