@@ -1,10 +1,12 @@
 # iOT-Light-System
 These programs are used to interface with an HC-05 Bluetooth module and Arduino Uno.
 
-The GUI created in Processing sends commands to the HC-05, which then
-transmits the data to the Arduino for the purpose of driving an LED.
+The Processing GUI sends commands via Bluetooth connection to the HC-05, which then
+serially transmits the data to the Arduino. The Arduino uses this data to set the 
+voltage level of one of its output pins, which is connected to an LED or some other
+type of light. 
 
-If you are searching for a solution for implementing a slider bar in Processing, then this repo will be very useful for you.
+### If you are searching for a solution for implementing a slider bar in Processing, then this repo will be very useful for you!
 
 The GUI is shown below.
 
