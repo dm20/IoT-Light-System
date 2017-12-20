@@ -6,7 +6,7 @@ serially transmits the data to the Arduino. The Arduino uses this data to set th
 voltage level of one of its output pins, which is connected to an LED or some other
 type of light. 
 
-### If you are searching for a solution for implementing a slider bar in Processing, then this repo will be very useful for you!
+### If you are in search of a solution for implementing a slider bar in Processing, then this repo will be very useful for you!
 
 The GUI is shown below.
 
