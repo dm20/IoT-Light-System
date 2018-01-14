@@ -1,3 +1,5 @@
+Copyright © Daniel McGrath, All Rights Reserved | demcgrath2@gmail.com
+
 # IoT-Light-System
 These programs are used to interface with an HC-05 Bluetooth module and Arduino Uno.
 
