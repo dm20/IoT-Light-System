@@ -9,10 +9,10 @@ voltage level of one of its output pins, which is connected to an LED or some ot
 type of light. 
 
 ## To control the light:
-### 1) Download these source files, along with the Processing Development Environment (PDE).
-### 2) Set up the Arduino, HC-05, and light bulb. There are many YouTube videos that explain HC-05 setup.
-### 3) Once the Arduino and HC-05 are on, select the HC-05 from your tablet/computer's list of Bluetooth devices.
-### 4) Run the GUI in PDE and begin controlling the light from your computer!
+    1) Download these source files, along with the Processing Development Environment (PDE).
+    2) Set up the Arduino, HC-05, and light bulb. There are many YouTube videos that explain HC-05 setup.
+    3) Once the Arduino and HC-05 are on, select the HC-05 from your tablet/computer's list of Bluetooth devices.
+    4) Run the GUI in PDE and begin controlling the light from your computer!
 
 ## If you are in search of a solution for implementing a slider bar in Processing, then this repo will be very useful for you!
 
