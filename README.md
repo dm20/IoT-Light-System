@@ -1,6 +1,8 @@
 Copyright © Daniel McGrath, All Rights Reserved | demcgrath2@gmail.com
 
 # IoT-Light-System
+Run it on your Mac.
+
 These programs are used to interface with an HC-05 Bluetooth module and Arduino Uno.
 
 The Processing GUI sends commands via Bluetooth connection to the HC-05, which then
