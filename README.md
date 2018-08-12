@@ -20,7 +20,7 @@ type of light.
     
 ---
 
-## If you are in search of a solution for implementing a slider bar in Processing, then this repo will be very useful for you!
+## If you are in search of a bare bones slider bar written in Processing, then this repo will be very useful for you!
 
 The GUI is shown below.
 
